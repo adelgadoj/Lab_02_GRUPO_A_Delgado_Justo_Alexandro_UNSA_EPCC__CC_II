@@ -1,1 +1,1 @@
-# Lab_02_GRUPO_A_Delgado_Justo_Alexandro_UNSA_EPCC__CC_II
+# Lab 02 CCII - EPCC (UNSA)
